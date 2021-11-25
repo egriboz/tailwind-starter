@@ -1,0 +1,12 @@
+.base {
+  @apply
+  bg-blue-600
+  text-white
+  text-sm font-semibold
+  px-5
+  py-3
+  rounded
+  transition
+
+  hover:bg-blue-700
+}
